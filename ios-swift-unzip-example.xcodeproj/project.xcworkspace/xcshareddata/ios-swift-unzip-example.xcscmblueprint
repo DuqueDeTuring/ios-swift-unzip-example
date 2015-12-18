@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A6319CE3747BB0F1908FE9F1C6BB134B1E28722D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A6319CE3747BB0F1908FE9F1C6BB134B1E28722D" : 0,
+    "65E71B0513DBFB09F39CEEF3A8B769CB93E66994" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1FA380F7-F289-44C5-859D-1189F2C829A9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A6319CE3747BB0F1908FE9F1C6BB134B1E28722D" : "ios-swift-unzip-example\/",
+    "65E71B0513DBFB09F39CEEF3A8B769CB93E66994" : "..\/..\/ZipArchive"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ios-swift-unzip-example",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios-swift-unzip-example.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZipArchive\/ZipArchive.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65E71B0513DBFB09F39CEEF3A8B769CB93E66994"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:andresvalenciano\/ios-swift-unzip-example.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A6319CE3747BB0F1908FE9F1C6BB134B1E28722D"
+    }
+  ]
+}
